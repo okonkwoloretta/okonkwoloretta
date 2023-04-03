@@ -1,4 +1,3 @@
-STRONG PASSION FOR DATA while using it to tell meaningful and insightful stories through DASHBOARDS
 
 - 👋 Hi, I’m Okonkwo Loretta Chinazor
 - 👀 I’m interested in Data Analytics
