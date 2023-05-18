@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Okonkwo Loretta Chinazor
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Excel and Powerbi
+- 👀 I’m currently a Junior Data Analytics
+- 🌱 SQL, Excel and Powerbi Fanatic 
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 [Yahoomail](adsonloretta@yahoo.com)
 - 📫 [LinkedIn](https://www.linkedin.com/in/okonkwo-loretta-2b815268/)
