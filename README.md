@@ -3,7 +3,7 @@
 - 👀 I’m currently a Junior Data Analytics
 - 🌱 SQL, Excel and Powerbi Fanatic 
 - 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 [Yahoomail](adsonloretta@yahoo.com)
+- 📫 [outlook](text2loreal@live.com)
 - 📫 [LinkedIn](https://www.linkedin.com/in/okonkwo-loretta-2b815268/)
 
 <!---
